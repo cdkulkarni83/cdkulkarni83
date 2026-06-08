@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cdkulkarni83
-- 👀 I’m interested in ...RPA development in Blue Prism and UI
-- 🌱 I’m currently learning ... Blue Prism and UI
+- 👀 I’m interested in ...Power Platform development
+- 🌱 I’m currently working in Power Apps,Power automate copilot studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
